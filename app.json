@@ -1,0 +1,17 @@
+{
+  "name": "carouselView",
+  "displayName": "carouselView",
+  "expo": {
+    "name": "carouselView",
+    "slug": "carouselView",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
